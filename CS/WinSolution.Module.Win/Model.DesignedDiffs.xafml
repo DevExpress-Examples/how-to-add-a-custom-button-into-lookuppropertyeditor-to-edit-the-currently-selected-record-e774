@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel>
+    <Class Name="DevExpress.Persistent.BaseImpl.Party">
+      <OwnMembers>
+        <Member Name="Address1" PropertyEditorType="WinSolution.Module.Win.MyLookupPropertyEditor" />
+        <Member Name="Address2" PropertyEditorType="WinSolution.Module.Win.MyLookupPropertyEditor" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <DetailViewItems />
+  <SchemaModules>
+    <SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="8.1.3.4433" IsNewNode="True" />
+    <SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="8.1.3.4433" />
+    <SchemaModule Name="SystemModule" Version="8.1.3.4433" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="8.1.3.4433" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="MyPerson_ListView" EditMode="Editable" />
+  </Views>
+</Application>
