@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <DetailViewItems Id="DetailViewItems">
+    <PropertyEditor Name="PropertyEditors">
+      <ModelNode UnusableNodeName="DefaultEditor" PropertyType="DevExpress.Xpo.IXPSimpleObject" EditorType="WinSolution.Module.Win.MyLookupPropertyEditor" />
+    </PropertyEditor>
+  </DetailViewItems>
+</Application>
