@@ -1,3 +1,18 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/WinSolution.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinSolution.Module.Win/Model.DesignedDiffs.xafml))
+* [MyLookupPropertyEditor.cs](./CS/WinSolution.Module.Win/MyLookupPropertyEditor.cs) (VB: [MyLookupPropertyEditor.vb](./VB/WinSolution.Module.Win/MyLookupPropertyEditor.vb))
+* [Updater.cs](./CS/WinSolution.Module.Win/Updater.cs) (VB: [Updater.vb](./VB/WinSolution.Module.Win/Updater.vb))
+* [WinModule.cs](./CS/WinSolution.Module.Win/WinModule.cs) (VB: [WinModule.vb](./VB/WinSolution.Module.Win/WinModule.vb))
+* [Model.DesignedDiffs.xafml](./CS/WinSolution.Module/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinSolution.Module/Model.DesignedDiffs.xafml))
+* [Module.cs](./CS/WinSolution.Module/Module.cs) (VB: [Module.vb](./VB/WinSolution.Module/Module.vb))
+* [MyPerson.cs](./CS/WinSolution.Module/MyPerson.cs) (VB: [MyPerson.vb](./VB/WinSolution.Module/MyPerson.vb))
+* [Updater.cs](./CS/WinSolution.Module/Updater.cs) (VB: [Updater.vb](./VB/WinSolution.Module/Updater.vb))
+* [Model.xafml](./CS/WinSolution.Win/Model.xafml) (VB: [Model.xafml](./VB/WinSolution.Win/Model.xafml))
+* [Program.cs](./CS/WinSolution.Win/Program.cs) (VB: [Program.vb](./VB/WinSolution.Win/Program.vb))
+* [WinApplication.cs](./CS/WinSolution.Win/WinApplication.cs) (VB: [WinApplication.vb](./VB/WinSolution.Win/WinApplication.vb))
+<!-- default file list end -->
 # How to add a custom button into LookupPropertyEditor to edit the currently selected record
 
 
